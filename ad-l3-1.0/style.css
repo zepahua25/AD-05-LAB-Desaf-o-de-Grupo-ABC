@@ -3,3 +3,7 @@ html {
     width: 100%;
   }
   
+.img-personalizada {
+  width: 100px !important; /* ¡Asegura que el ancho se aplique! */
+  height: auto !important; /* ¡Asegura que la altura se ajuste! */
+}
